@@ -25,7 +25,7 @@ Também possuo vivência na integração de serviços em nuvem na **AWS** e cont
 ### 🛠️ Stack Tecnológica & Especialidades
 
 > ### 🟢 Core & Frameworks
-> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nestjs,express,prisma,node" /></a>
+> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nestjs,express,prisma" /></a>
 >
 > `TypeScript` `NestJS` `Express.js` `Prisma ORM` `Node.js`
 >
