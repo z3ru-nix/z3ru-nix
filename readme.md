@@ -39,7 +39,7 @@ Também possuo vivência na integração de serviços em nuvem na **AWS** e cont
 > `PostgreSQL` `MySQL` 
 
 > ### ☁️ Infraestrutura & DevOps
-> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,git,linux,kali" /></a>
+> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,git,linux,kali,debian" /></a>
 >
 > `Amazon Web Services (AWS)` `Docker` `Git & GitHub`
 
