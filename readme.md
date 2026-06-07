@@ -29,10 +29,7 @@ Também possuo vivência na integração de serviços em nuvem na **AWS** e cont
 >
 > `TypeScript` `NestJS` `Express.js` `Prisma ORM` `Node.js`
 >
-> ### 🔵 Front-End
-> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
->
-> `React`
+
 > ### 🛢️ Modelagem & Dados
 > <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql" /></a>
 >
