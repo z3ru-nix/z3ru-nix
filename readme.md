@@ -1,7 +1,6 @@
-  <div align="center">
+<div align="center">
   <h1>👋 Olá, eu sou o Emanuel Leão</h1>
-  <p><strong>Desenvolvedor Backend | TypeScript • NestJS • SQL • Cloud</strong></p>
-  
+  <p><strong>Desenvolvedor Backend | Python • C • Cibersegurança • Linux</strong></p>
   <p align="center">
     <a href="https://www.linkedin.com/in/emanuel-le%C3%A3o-351489384/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -11,39 +10,35 @@
     </a>
   </p>
 </div>
-
 ---
-
+ 
 ### 🚀 Sobre Mim
-
-Sou um desenvolvedor Backend focado em construir APIs robustas, seguras e escaláveis. Minha principal stack envolve **TypeScript** e **NestJS**, com forte experiência na modelagem e otimização de bancos de dados relacionais (**MySQL** e **PostgreSQL**). 
-
-Também possuo vivência na integração de serviços em nuvem na **AWS** e containerização com **Docker**, sempre buscando aplicar as melhores práticas de arquitetura e código limpo. Estou em constante evolução e aberto a novos desafios tecnológicos.
-
+ 
+Sou um desenvolvedor Backend focado em construir APIs robustas e seguras, com um olhar voltado especialmente para **cibersegurança**. Minha stack principal envolve **Python** e **C**, com experiência na modelagem de bancos de dados como **MongoDB** e outros SGBDs relacionais e não relacionais.
+ 
+Tenho forte vivência em ambientes **Linux**, incluindo **Kali Linux**, **Linux Mint** e **Debian**, o que me dá uma base sólida para atuar tanto no desenvolvimento quanto na análise de segurança de sistemas. Estou em constante evolução, estudando pentest, hardening e boas práticas de segurança aplicadas ao desenvolvimento de software.
+ 
 ---
-
+ 
 ### 🛠️ Stack Tecnológica & Especialidades
-
-> ### 🟢 Core & Frameworks
-> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nestjs,express,prisma" /></a>
+ 
+> ### 🟢 Core & Linguagens
+> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c" /></a>
 >
-> `TypeScript` `NestJS` `Express.js` `Prisma ORM` `Node.js`
+> `Python` `C` `APIs REST`
 >
-
 > ### 🛢️ Modelagem & Dados
-> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql" /></a>
+> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /></a>
 >
-> `PostgreSQL` `MySQL` 
-
-> ### ☁️ Infraestrutura & DevOps
-> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,git,linux,kali,debian" /></a>
+> `MongoDB` `PostgreSQL` `MySQL`
 >
-> `Amazon Web Services (AWS)` `Docker` `Git & GitHub`
-
+> ### 🔐 Cibersegurança & Sistemas
+> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,linux,debian,git" /></a>
+>
+> `Kali Linux` `Linux Mint` `Debian` `Linux` `Git & GitHub`
+ 
 ---
-
-
-
+ 
 <div align="center">
   <p>💡 <i>"O único modo de fazer um excelente trabalho é amar o que você faz."</i></p>
 </div>
