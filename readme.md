@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou o Emanuel Leão</h1>
-  <p><strong>Desenvolvedor Backend | Python • C • Cibersegurança • Linux</strong></p>
+  <p><strong>Pentester | Python • C • Cibersegurança • Linux</strong></p>
   <p align="center">
     <a href="https://www.linkedin.com/in/emanuel-le%C3%A3o-351489384/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -13,8 +13,6 @@
 ---
  
 ### 🚀 Sobre Mim
- 
-Sou um desenvolvedor Backend focado em construir APIs robustas e seguras, com um olhar voltado especialmente para **cibersegurança**. Minha stack principal envolve **Python** e **C**, com experiência na modelagem de bancos de dados como **MongoDB** e outros SGBDs relacionais e não relacionais.
  
 Tenho forte vivência em ambientes **Linux**, incluindo **Kali Linux**, **Linux Mint** e **Debian**, o que me dá uma base sólida para atuar tanto no desenvolvimento quanto na análise de segurança de sistemas. Estou em constante evolução, estudando pentest, hardening e boas práticas de segurança aplicadas ao desenvolvimento de software.
  
