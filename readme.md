@@ -28,7 +28,7 @@ Tenho forte vivência em ambientes **Linux**, incluindo **Kali Linux**, **Linux 
 > ### 🛢️ Modelagem & Dados
 > <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
 >
-> `MongoDB` `PostgreSQL` `MySQL`
+> `MongoDB` 
 >
 > ### 🔐 Cibersegurança & Sistemas
 > <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,linux,debian,git" /></a>
